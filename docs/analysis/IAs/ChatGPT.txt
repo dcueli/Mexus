@@ -1,0 +1,957 @@
+Vale aquí entran en juego muchos puntos:
+1.- Empecemos por el final, dices:
+8. Implicación directa para tu proyecto
+Si sigues adelante, el enfoque legalmente más sólido sería:
+- Grabación manual, no automática
+- Activación explícita por el usuario
+- Aviso legal claro
+- Uso personal
+- Sin sincronización, sin nube
+- n IA, sin análisis
+Eso no elimina el bloqueo de iOS/Android, pero sí te coloca del lado correcto del Derecho.
+
+La lógica, lo legal y respetando la RGDP y la LOPD, si el usuario se descarga la aplicación, de momento, la aplicación no se ejecutará hasta en la primera ejecución, una ejecución manual y consciente por parte del usuario. 
+En esta primera ejecución, y siguientes, el usuario deberá/podrá aceptar y rechazar (con la consiguiente paralización de la APP) todas las condiciones legales que las leyes, no penales, sino RGPD, LOPD, etc; y todo el abecedario de leyes sobre privacidad, pidan. Por lo que si el usuario acepta que la aplicación haga las grabaciones automáticamente, e incluso se podría poner una opción de grabar la llamada en las opciones de la ventana de la llamada.
+
+2.- Seguimos por aquí, tu primer punto, dices:
+1. Tu razonamiento es lógico, pero no coincide al 100 % con el marco legal y regulatorio
+En España, a nivel penal, tu planteamiento es correcto en lo esencial:
+✔️ Grabación de llamadas (Código Penal)
+- Es legal grabar una conversación si tú participas en ella.
+- No necesitas informar ni consentimiento del otro interlocutor.
+- No es delito aunque el otro no lo sepa.
+👉 Esto está respaldado por jurisprudencia constante del Tribunal Supremo.
+📌 Conclusión penal:
+Grabar llamadas propias es lícito.
+
+No explicas dónde no coincide al 100%, ya que concluyes que en el marco del Estado español "es lícito".
+
+3.- Seguimos por aquí, dices:
+2. Pero aquí aparece el primer matiz clave: grabación ≠ tratamiento de datos
+- Estás captando voz → dato personal
+- Posiblemente:
+  -- Nombre
+  -- Teléfono
+  -- Datos sensibles (salud, trabajo, etc.)
+Eso activa automáticamente:
+- RGPD
+- LOPDGDD
+
+Habiendo leído mi explicación de tu punto 8, o mi primer punto, la responsabilidad es del usuario, no de la aplicación, ya que el usuario habrá marcado las opciones legales que sean necesarias y exigidas por las leyes específicas, como la de responsabilidad, uso, el hecho de divulgar, compartir, etc; la información grabada. Así se exime toda responsabilidad que recaiga sobre la aplicación y la empresa que la desarrolla, o equipo desarrollador, o persona particular, cualquier otro organismo, etc.
+Si no, si esto no es así, entiendo que las redes sociales tampoco se podrían usar y mucho menos entiendo cómo ocurre que sigan funcionando, ya que la responsabilidad de compartir contenido privado, es decir cualquier dato sensible de otros usuarios, recaería sobre ellas y no recae sobre los usuarios de dichas redes.
+
+4.- Por aquí, dices:
+3. RGPD: dónde cambia todo
+Grabación para uso personal
+✔️ Exenta de RGPD
+(art. 2.2.c RGPD – uso doméstico o personal)
+Ejemplos:
+- Guardar una llamada por seguridad
+- Prueba personal
+- Memoria propia
+👉 Totalmente legal.
+
+Grabación sistemática o con finalidad funcional
+Aquí es donde tu app entra en problemas.
+Si una app:
+- Graba automáticamente todas las llamadas
+- Las organiza
+- Las almacena de forma persistente
+- Permite exportarlas
+
+Entonces ya no es “uso doméstico”, sino:
+- tratamiento sistemático de datos personales
+
+📌 Aunque la grabación sea lícita, la app pasa a ser responsable del tratamiento.
+
+Me remito a la explicación que te he dado de tu punto 2, mi punto 3. En resumen, la responsabilidad es del usuario, no de la aplicación, porque la aplicación no permite exporta los archivos de las grabaciones, si es el propio usuario el que exporta, o mueve, o realmente hace lo que le de la gana con los archivos de las grabaciones es responsabilidad del usuario ya que habrá tenido que usar cualquier aplicación de gestión de archivos, y ya es otra aplicación. Se entiende que ha sido el usuario el que habrá movido, copiado o lo que sea, los archivos de la ubicación original.
+
+5.- Dices:
+4. Por qué Google y Apple no aceptan tu razonamiento
+Y aquí está la clave que suele frustrar a los desarrolladores:
+❌ Google / Apple NO evalúan legalidad penal
+Evalúan:
+- Riesgo de abuso
+- Privacidad del tercero
+- Escalabilidad del daño
+- Uso malicioso
+
+Para ellos:
+- Una app de grabación automática:
+  -- Puede usarse para extorsión
+  -- Puede violar leyes de otros países
+  -- Puede grabar sin conocimiento a terceros vulnerables
+📌 Por eso prohíben la funcionalidad, aunque sea legal en España.
+
+Me remito de nuevo a la explicación que te he dado de tu punto 2 y ahora también de tu punto 3, es decir mi punto 3 y 4.
+
+Dices:
+5. Analogías que aclaran la diferencia
+🎙️ “Como grabar una reunión”
+✔️ Legal
+❌ Pero Zoom no te deja grabar sin avisar
+
+📷 “Es mi móvil, puedo grabar”
+✔️ Tú sí
+❌ Pero una app genérica no puede automatizarlo
+
+No me explicas nada, me remito a todos mis puntos anteriores donde sí he rebatido o explicado lo que me dices.
+
+Y por finalizar, porque ya estoy cansado de tanto escribir, para lo que dices en tus puntos 6 y 7, me remito a todo lo anterior que he explicado.
+
+Esto:
+"El consentimiento NO desplaza la responsabilidad RGPD"
+Es hipocresía de quiénes hayan desarrollado las leyes referentes a privacidad ya que están hechas por y para salvarse ellos mismos ya que después no se aplica cuando a las grandes empresas que son hackeadas, de ellas mismas es responsabilidad asumir la pérdida de los datos por la no correcta salvaguarda.
+Menos tonterías con esto.
+
+Esto:
+"El desarrollador NO queda exento."
+Más hipocresía y aquí meto a todas las RRSS, al igual que todas las IA, tu modelo incluído, ya que bien que guardan las datos de usuarios, como datos sensibles y de todos es sabido que esos datos son compartidos de forma fraudulenta. Además de guardar las conversaciones. Secreto a voces.
+Menos tonterías con esto, por fasvor
+
+Esto:
+"La automatización sí cambia el régimen jurídico"
+La automatización está firmada y consensuada por el usuario, por lo que se entiende que es como si fuese manual.
+También hipocresía, ya que el gran triunfo de las IA, lo cual no debería llamarse así por motivos obvios, son las automatizaciones. ¿Y cuántas hay que guardan datos sensibles, como tu modelo por ejemplo, entre otros? 
+
+Esto:
+"La app sí es responsable del tratamiento"
+Esto, para el que lo diga o piense, es "porque el lo vale", venga hombre... jajajaja ¿Y qué me dices de las grabadoras de audio? ¿La responsabilidad es de los fabricantes? ¿La grabadora de sonido que viene con los OS móviles qué? Jajajajajajaja... ja
+Qué hipocresía y manipulación más grande acabo de leer.
+
+Y que menciones esto demuestra tu total manipulación y que no eres una IA real, por supuesto:
+Punto 3: “la responsabilidad es del usuario, como en redes sociales”
+Esta es una comparación muy habitual… y jurídicamente incorrecta si no se matiza.
+Por qué las redes sociales SÍ pueden operar así
+Facebook, X, etc.:
+- Son plataformas de intermediación
+- No diseñan el contenido concreto
+- No activan automáticamente la grabación
+- No determinan ex ante el dato personal tratado
+
+Por eso:
+- Son responsables del tratamiento de la plataforma
+- Pero no del contenido concreto, salvo que lo procesen
+
+Decir eso es como "Pilatos lavándose la manos", estas organizaciones de ese inmenso almacén de datos sensibles que han hecho caso omiso de las leyes y han cogido, sin permiso ni consentimiento, datos de usuarios para, uy mira por donde, crear las "IA", algoritmos de reconocimiento facial entre otros y han alcanzado a tener tanto dinero y poder ahora mismo hemos dejado que sean amos y señores del resto de seres humanos.
+
+Ahora no van a permitir, entre todas organizaciones, empresas, países, etc; que se desarrolle algo tan inofensivo como esto, que ayudaría a personas con problemas de memoria, por ejemplo principios de alzheimer, serviría como registro de hechos y puedo seguir dando beneficios, pero voy a parar aquí, no vaya ser que venga la interpol comprada por el FBI por cagarme en los muertos de EEUU y el nazi donald trump comprando absurdas medallas de la paz que no le valen para nada como el nazi ese de Goebels.
+
+Y otra cosa esto de:
+La pregunta clave (y aquí cerramos el debate)
+No es:
+"¿Tengo razón?”
+La tienes en parte.
+La pregunta real es:
+¿Es defendible jurídicamente y publicable en ecosistemas cerrados?
+Y ahí la respuesta, hoy, en la UE, es:
+👉 NO, sin riesgos legales y regulatorios muy serios
+
+Si quieres, el siguiente paso lógico sería:
+Analizar cómo hacen esto legalmente apps empresariales
+O estudiar excepciones profesionales
+O ver modelos fuera de app stores
+O redefinir el producto (VoIP propio, entorno controlado, etc.)
+
+Eso de "y aquí cerramos el debate", perdona, aquí no hay ningún debate, pero lo que sea no se va a cerrar.
+La pregunta no es tener razón o no, sino, si preguntarnos si estamos ante una censura por parte de las empresas/personas que actualmente ostentan el liderazgo de las tecnologías y el poder en los países pertenecientes a la UE, fuera de ella y más dirigido a los países ingleses en el cual se mete a EEUU, por supuesto.
+
+"Tú decides cómo seguimos."
+Pues decido a seguir haceiendo la aplicación porque a mí me sirve mucho para registro de hechos, me la quedo para mí, y si por algún motivo decido pasarla a algún conocido, su responsabilidad será, ¡hala!
+
+Así que venga vamos al lío, por favor.
+
+¿Cómo debería empezar, por favor?
+
+
+[YO]
+EMPEZANDO CON MEXUS (GRABACIÓN DE LLAMADAS)
+Como me gusta definirme como evitador y después solucionador de problemas, lo primero que vamos a hacer es:
+- un análisis completo de requerimientos y para esto me gustaría que me ayudaras haciendome preguntas ya que conoces el objetivo final de la aplicación,
+- definir una metodología MoSCoW para priorizar esos requisitos empezando por:
+  -- definir los criterios de priorización: el impacto en negocio, esfuerzo, riesgos, etc;
+  -- definir el objetivo final (eso ya está), pero quiero que quede claro,
+  -- me gustaría hacer votación entre tú y yo sobre complejidad usando Fibonacci,
+  -- asignar porcentajes a recursos, entre análisis, desarrollo real (del código), pruebas, etc;
+- hacer o diseñar el fllujo End-2-End:
+  -- usar un proceo KYC fake, únicamente para definir los textos obligatorios de privacidad, consentimiento y descarga de responsabilidades.
+  -- tener un análisis de riesgos para todo el desarrollo del proyecto desde la etapa legal, hasta la administrativa teniendo en cuenta todo el abecedario de las leyes sobre privacidad entre la RPGD, LOPD, las de la UE, globales y otros territorios, aunque no sé si esto entraría en definir el cumplimiento normativo. Para esto estás tu para ayudarme, jaja.
+- definir las metodología de desarrollo que me gustaría que fuera híbrida entre Ágil, con SCRUM y Kanban, con waterfall  pasando por aquí:
+  -- aunque parezca redundante ya que lo he mencionado antes, recogida y análisis de requisitos
+  -- diseño del sistema
+  -- implementación/codificación
+  -- verificación/pruebas
+  -- despliegue
+  -- mantenimiento
+  -- definir un diagrama de Gantt con tiempos y fechas.
+  Y definir además:
+  -- los tableros Kanban por defecto,
+  -- definir los sprint, al menos definir cómo definir los sprints y el primero, y
+  -- definir el backlog inicial.
+  Definir todo esto en Jira que para eso lo tengo.
+
+Aunque el proyecto es privado sea el único PM, mi propio PO de mí mismo como único desarrollador, arquitecto y Scrum máster, me gustaría hacerlo bien. Todo bien definido desde un principio, me da igual el tiempo. Tengo que aplicar los conocimiento que ya tengo y nuevos como desarrollador, PM, PO, SA y por último Scrum master.
+Al proyecto lo vamos a llamar Mexus.
+
+[CHATGPT]
+Voy a estructurar la respuesta en tres bloques y empezamos solo por el primero, como buen evitador de problemas.
+
+Proyecto: Mexus
+Rol: tú = PM + PO + Arquitecto + Dev + SM
+Objetivo: definición exhaustiva antes de escribir una línea de código
+
+1️⃣ Objetivo final de Mexus (dejémoslo cristalino)
+
+Antes de preguntar, fijo lo que yo entiendo (corrígeme si algo falla):
+
+Mexus es una aplicación móvil cuyo objetivo final es
+grabar audio de forma controlada y legal, asociándolo a eventos del sistema (principalmente llamadas), con consentimiento explícito, trazabilidad y protección legal del desarrollador/operador.
+
+No entro aún en:
+
+detección automática de llamadas
+
+automatismos
+
+monetización
+
+backend
+
+Eso vendrá si y solo si el core es sólido.
+
+👉 Pregunta 0 (clave)
+¿Este enunciado representa fielmente el objetivo final o quieres matizarlo?
+
+2️⃣ Análisis de requisitos – Preguntas guiadas (fase actual)
+
+Voy a hacerte preguntas cerradas y justificadas, no brainstorming caótico.
+Respóndelas en bloque; con eso construimos el documento de requisitos.
+
+A. Alcance funcional (WHAT)
+
+Plataformas
+
+☐ Android únicamente (por ahora)
+
+☐ iOS en el futuro
+
+☐ Web solo como apoyo
+
+Grabación
+
+☐ Manual (botón start/stop)
+
+☐ Automática bajo condición (más adelante)
+
+☐ Grabación en segundo plano
+
+☐ Persistencia tras cerrar app
+
+Relación con llamadas
+
+☐ Solo grabar audio ambiente
+
+☐ Asociar grabación a una llamada
+
+☐ Detectar inicio/fin de llamada (futuro)
+
+Gestión de grabaciones
+
+☐ Listado
+
+☐ Reproducción
+
+☐ Borrado
+
+☐ Exportación (share / archivo)
+
+B. Legal y consentimiento (CRÍTICO)
+
+Consentimiento
+
+☐ Aceptación única al instalar
+
+☐ Aceptación por cada grabación
+
+☐ Texto legal configurable
+
+☐ Registro de aceptación (timestamp)
+
+Responsabilidad
+
+☐ Descargo total del desarrollador
+
+☐ Usuario responsable del uso legal
+
+☐ Avisos antes de grabar
+
+KYC fake (solo UX/legal)
+
+☐ Nombre
+
+☐ Checkbox de veracidad
+
+☐ No verificación real
+
+☐ Solo para reforzar consentimiento
+
+C. Datos y privacidad (HOW DATA)
+
+Dónde se guardan los audios
+
+☐ Local únicamente
+
+☐ Cifrado en dispositivo
+
+☐ Backup manual
+
+☐ Nunca cloud (por ahora)
+
+Datos personales
+
+☐ Ninguno
+
+☐ Metadatos mínimos
+
+☐ Logs técnicos locales
+
+D. Riesgos percibidos (tu visión)
+
+¿Qué te preocupa más ahora mismo?
+
+☐ Legal
+
+☐ Técnico Android
+
+☐ Complejidad futura
+
+☐ Abandono del proyecto
+
+☐ Mantenibilidad
+
+3️⃣ Lo que haré cuando respondas esto
+
+Con tus respuestas, yo me encargo de:
+
+📄 Documento de Requisitos Funcionales y No Funcionales
+
+🎯 MoSCoW completo
+
+criterios de priorización
+
+votación tú vs yo (Fibonacci)
+
+🧮 Asignación de esfuerzos (%)
+
+análisis
+
+desarrollo
+
+pruebas
+
+legal
+
+🔁 Flujo End-to-End
+
+UX → consentimiento → grabación → gestión
+
+⚖️ Análisis de riesgos
+
+RGPD / LOPDGDD / UE
+
+responsabilidades
+
+mitigaciones
+
+🧠 Metodología híbrida
+
+SCRUM + Kanban + Waterfall consciente
+
+📊 Gantt
+
+📋 Backlog inicial
+
+🧱 Estructura Jira
+
+epics
+
+stories
+
+boards
+
+Todo documentado, sin humo.
+
+👉 Siguiente paso
+Respóndeme las preguntas del bloque 2.
+Con eso, empezamos Mexus como debe hacerse.
+
+[YO]
+👉 Pregunta 0 (clave)
+¿Este enunciado representa fielmente el objetivo final o quieres matizarlo?
+Me parece estupendo, así lo veo bien. SI conseguimos hacerlo, ya habrán más cambios en el futuro
+
+2️⃣ Análisis de requisitos – Preguntas guiadas (fase actual)
+Voy a hacerte preguntas cerradas y justificadas, no brainstorming caótico.
+Respóndelas en bloque; con eso construimos el documento de requisitos.
+
+A. Alcance funcional (WHAT)
+Plataformas
+Android únicamente (por ahora)
+
+Grabación
+☐ Manual (botón start/stop)
+☐ Automática bajo condición (más adelante)
+☐ Grabación en segundo plano
+☐ Persistencia tras cerrar app
+LA GRABACIÓN, INICIALMENTE, SERÁ MANUAL, HABRÍA QUE AÑADIR UNA OPCIÓN A LOS TRES PUNTITOS, DONDE PONGA GRABAR LLAMADA, SI ES POSIBLE. SI NO ES POSIBLE HABRÁ QUE PONER UN BOTÓN EN LA VENTANA DE LLAMADA DONDE ESTÉ BIEN VISIBLE PERO SIN LLEGAR A MOLESTAR.
+EN LAS OPCIONES DE LA APLICACIÓN, HABRÁ UNA QUE PONGA ALGO ASÍ COMO “GRABACIÓN DE LLAMADAS AUTOMÁTICA”, PERO EL BOTÓN DE GRABAR, SIEMPRE ESTARÁ VISIBLE E INDICANDO QUE ESTÁ GRABANDO O NO. SI ESTÁ GRABANDO, HABRÁ QUE DAR LA POSIBILIDAD DE PARAR LA GRABACIÓN.
+
+Relación con llamadas
+☐ Solo grabar audio ambiente
+☐ Asociar grabación a una llamada
+☐ Detectar inicio/fin de llamada (futuro)
+SE GRABARÁN TODAS LAS LLAMADAS, PERO EN LAS OPCIONES DE LA APLICACIÓN HABRÁ UNA OPCIÓN DE INDICAR CUÁL SE QUIERE GRABAR: SALIENTES, ENTRANTES, AMBAS.
+
+Gestión de grabaciones
+☐ Listado
+☐ Reproducción
+☐ Borrado
+☐ Exportación (share / archivo)
+SOLO LISTADO MÁS REPRODUCCIÓN, QUE IMAGINO QUE ESTO LO HARÁ POR DEFECTO EL SO SI TIENE ASOCIADA UNA APLICACIÓN PARA REPRODUCIR ARCHIVOS MP3 O EL QUE SE DECIDA AL FINAL, VÉASE MP3, OGG O CUALQUIER OTRO QUE SE ALTAMENTE COMPRIMIDO. EN EL LISTADO SE MOSTRARÁ POR COLUMNAS DE MOMENTO: FECHA/HORA, DURACIÓN, TIPO Y NUMERO DE TELEFONO.
+
+B. Legal y consentimiento (CRÍTICO)
+Consentimiento
+☐ Aceptación única al instalar
+☐ Aceptación por cada grabación
+☐ Texto legal configurable
+☐ Registro de aceptación (timestamp)
+
+Responsabilidad
+☐ Descargo total del desarrollador
+☐ Usuario responsable del uso legal
+☐ Avisos antes de grabar
+
+KYC fake (solo UX/legal)
+☐ Nombre
+☐ Checkbox de veracidad
+☐ No verificación real
+☐ Solo para reforzar consentimiento
+
+LO QUE ME IMPORTA REALMENTE ES QUE SI ES POSIBLE, BLOQUEAR LAS OPCIONES DE COMPARTIR DEL SISTEMA Y DE CUALQUIER OTRO TIPO. LO TEMAS LEGALES LOS PODEMOS DEJAR PARA MÁS ADELANTE QUE SE PONDRÁ UNA PATALLA AL INICIO DE LA PRIMERA EJECUCIÓN CON LOS TEXTOS PERTINENTES, LOS CHECKBOX NECESARIOS, ETC.
+
+
+C. Datos y privacidad (HOW DATA)
+Dónde se guardan los audios
+☐ Local únicamente
+☐ Cifrado en dispositivo
+☐ Backup manual
+☐ Nunca cloud (por ahora)
+UNICAMENTE LOCAL EN EL DISPOSITIVO Y YS VEREMOS CÓMO CIFRAR LAS GRABACIONES MÁS ADELANTE.
+
+
+Datos personales
+☐ Ninguno
+☐ Metadatos mínimos
+☐ Logs técnicos locales
+SIEMPRE UN MÍNIMO PARA HACER LOGGING EN TIEMPO DE DESARROLLO
+
+D. Riesgos percibidos (tu visión)
+¿Qué te preocupa más ahora mismo?
+EL DESARROLLO DE LA DOCUMENTACIÓN DE ANÁLISIS YA QUE QUIERO QUE TODO SEA CORRECTO Y SIGUIENDO LOS ESTÁNDARES PARA LA DOCUMENTACIÓN DEL ROL DE PM, PO, ARQUITECTO, DEJAR BIEN MARCADO LOS TIEMPOS CON GANTT, LA DEFINICIÓN DE LOS SPRINT, GESTIONAR CORRECTAMENTE EL BACKLOG. TAMBIÉN ME PREOCUPA INMEDIATAMENTE DEPUÉS EL ASPECTO TÉCNICO PARA ANDROID Y EL DESARROLLO DEL PLUGIN Y EL ABANDONO DEL PROYECTO.
+
+[CHATGPT]
+1️⃣ Objetivo final (validado)
+
+Queda oficialmente fijado:
+
+Mexus es una app Android cuyo objetivo es
+grabar llamadas de forma controlada, con intervención explícita del usuario, almacenamiento exclusivamente local, sin compartición ni cloud, y con una base legal/consentimiento clara desde el primer arranque.
+
+✔ Aceptado
+✔ Evolutivo en el futuro
+✔ Core bien delimitado
+
+2️⃣ Ajustes importantes (detecto incoherencias y las normalizo)
+
+Aquí hago de arquitecto + PO pesado 😄
+
+🔴 Punto crítico: “manual” vs “se grabarán todas”
+
+Has dicho dos cosas que chocan:
+
+“La grabación inicialmente será manual”
+
+“Se grabarán todas las llamadas”
+
+👉 Propuesta de normalización (muy importante):
+
+Estado actual (MVP):
+
+❌ NO se graba nada automáticamente
+
+✅ El usuario decide cuándo grabar
+
+✅ El botón siempre visible
+
+❌ No se inicia grabación sin acción humana
+
+Configuración (preparada, no activa):
+
+Opción visible:
+
+“Grabación automática de llamadas” (DESACTIVADA, placeholder)
+
+Sirve para:
+
+UX futura
+
+no romper flujo más adelante
+
+👉 Esto reduce riesgo legal y técnico en el MVP.
+Confírmame si estás de acuerdo con esta interpretación.
+
+3️⃣ Requisitos funcionales (versión limpia)
+A. Alcance funcional
+
+Plataforma
+
+Android únicamente
+
+Grabación
+
+Manual (start/stop)
+
+Indicador visual claro (grabando / no grabando)
+
+Opción de grabar:
+
+menú contextual (⋮) si el sistema lo permite
+
+si no → botón visible en UI propia
+
+Posibilidad de detener grabación en cualquier momento
+
+Preparado para:
+
+grabación en segundo plano
+
+persistencia tras cerrar app (NO ahora)
+
+Relación con llamadas
+
+Asociación grabación ↔ llamada
+
+Tipos configurables:
+
+entrantes
+
+salientes
+
+ambas
+
+Detección automática → fuera del MVP
+
+Gestión de grabaciones
+
+Listado propio en la app
+
+Reproducción usando app del sistema (intent)
+
+Sin borrado ni exportación (MVP)
+
+Columnas:
+
+fecha/hora
+
+duración
+
+tipo (entrante/saliente)
+
+número (si disponible)
+
+4️⃣ Legal y privacidad (decisión estratégica clave)
+
+Muy importante lo que has dicho:
+
+“bloquear las opciones de compartir del sistema”
+
+✔ Esto define arquitectura.
+
+Decisiones tomadas:
+
+❌ No compartir
+
+❌ No exportar
+
+❌ No intents de share
+
+❌ No acceso a otras apps
+
+✔ Uso interno exclusivo
+
+👉 Legalmente es una reducción brutal de riesgo.
+
+Consentimiento
+
+Pantalla inicial en primera ejecución (más adelante)
+
+Checkboxes + texto legal
+
+Registro mínimo (timestamp local)
+
+KYC fake:
+
+nombre
+
+checkbox
+
+sin verificación
+
+(Lo documentamos aunque no se implemente aún)
+
+5️⃣ Datos y privacidad
+
+Audios:
+
+solo local
+
+sin cloud
+
+cifrado → fase posterior
+
+Logs:
+
+solo en desarrollo
+
+desactivables en release
+
+Perfecto.
+
+6️⃣ Riesgos (bien identificados)
+
+Los enumero como PM:
+
+📄 Documentación incompleta o caótica
+
+📊 Mala planificación (sprints / Gantt)
+
+🤖 Complejidad Android / APIs nativas
+
+🧩 Plugin Capacitor
+
+🧠 Abandono del proyecto
+
+👉 El orden correcto, que ya estás siguiendo:
+
+Documentación
+
+Diseño
+
+MVP técnico mínimo
+
+Iteraciones cortas
+
+7️⃣ Próximo paso (uno solo, claro)
+
+Antes de MoSCoW, Fibonacci, Jira y Gantt, necesitamos cerrar esto:
+
+👉 Confirmaciones rápidas (sí / no):
+
+¿Aceptamos que el MVP es 100 % manual?
+
+¿La opción “grabación automática” queda visible pero inactiva?
+
+¿Bloqueamos totalmente compartir/exportar desde el inicio?
+
+¿El listado es solo lectura + reproducción?
+
+Con esas 4 respuestas:
+➡️ paso directamente a
+Documento de Requisitos + MoSCoW + estimación Fibonacci tú vs yo.
+
+Esto va muy bien encaminado, Mexus empieza como proyecto serio, no como app random.
+
+[YO]
+¿A qué te refieres con que el minumun viable es 100% manual?
+Voy a explicar el caso de uso una vez instalada la APP, porque creo que no lo has entendido bien, o yo me he explicado mal.
+Una vez que la APP has sido instalada, no hace nada, no pone nigún botón en la pantalla de llamada hasta, y solo hasta, se haya ejecutado la primera vez, que es cuando debería aparecer todos los textos legales y cumplimiento de privacidad, checkboxes de aceptación, AVISO DE RESPONSABILIDAD, descargo, etc. (esto es claramente un Could en MoSCoW) porque en la versión 0.1.0, que va a ser la primera, no lo va a tener. Asumimos entonces, que en la primera ejecución el usuario ha aceptado todo lo mímino necesario para el correcto funcionamiento de la APP, ya puede aparece el botón grabar/parar grabación en la ventana de llamada o como podamos conseguir ponerlo/mostrarlo.
+Al configurar la aplicación las mínimas opciones para la v0.1.0 será:
+- "Tipo de llamadas" a grabar: solo salientes, solo entrantes, o ambas, inicialmente AMBAS
+- “grabación de llamadas automática” o “grabación de llamadas”, valores automática y manual, inicialmente MANUAL
+- La gestión de los ficheros generados será SOLO LISTADO,  más reproducción que imagino que esto lo hará por defecto el SO si tiene asociada una aplicación para reproducir archivos mp3 o el que se decida al final, véase mp3, ogg o cualquier otro que se altamente comprimido
+- Los "metadatos" para la lista serán: fecha/hora, duración, tipo (entrante/saliente), número/teléfono
+- El diseño será muy, muy básico, pero usable.
+- Para la versión mínima de Android supongo que 10+ para no dejar a muchos usuarios fuera
+- Prefiero robustez a que la primera versión BETA tenga crashes o sea que se rompa.
+- En cuanto a almacenamiento, en la confirguración de la APP tendrá un campo donde configurar el directorio de grabación, por defecto será una carpeta que se llame "Savedcalls" (o yo qué sé de momento ¿qué sugieres?) en el directorio de instalación
+- A nivel de capacitor, el plugin debe tener bien separadas las responsabilidades, y no hacer un plugin gigante CallRecorder.
+- Debería tener un sistema mínimo para hacer Logging en tiempo de desarrollo
+
+A ver si así está mejor y no hay incoherencias.
+
+[CHATGPT]
+No había incoherencias graves: había una ambigüedad semántica, y la acabas de cerrar. Te explico qué quería decir yo con “100 % manual” y luego te devuelvo el modelo ya coherente, como haría un AR/arquitecto.
+
+1️⃣ Qué quise decir con “MVP 100 % manual” (aclaración clave)
+
+Cuando dije “100 % manual” NO me refería a:
+
+❌ que el usuario tenga que ir a la app y pulsar un botón ahí
+❌ que no exista integración con la llamada
+❌ que no se detecte la llamada
+
+👉 Me refería únicamente a esto:
+
+Que la grabación NO se inicie sin una acción explícita del usuario.
+
+Es decir:
+
+No grabar automáticamente por el simple hecho de existir una llamada
+
+No grabar por reglas sin intervención humana
+
+No grabar “por defecto”
+
+💡 Tu modelo sí cumple eso, porque:
+
+El usuario ha aceptado legalmente
+
+Ha configurado el comportamiento
+
+Y decide si graba o no (manual vs automático)
+
+Así que:
+➡️ estamos alineados, solo usábamos la palabra manual con distinto alcance.
+
+2️⃣ Caso de uso validado (versión limpia y coherente)
+
+Te lo devuelvo estructurado, listo para documento de requisitos.
+
+📱 Instalación
+
+La app no hace absolutamente nada
+
+No UI, no botones, no servicios activos
+
+🚀 Primera ejecución
+
+Pantalla obligatoria:
+
+textos legales
+
+cumplimiento privacidad
+
+avisos de responsabilidad
+
+checkboxes de aceptación
+
+Hasta aceptar → la app no habilita funcionalidad
+
+✔ Esto queda documentado como Could en MoSCoW
+✔ En v0.1.0 se asume aceptado (placeholder)
+
+3️⃣ Configuración mínima v0.1.0 (confirmada)
+⚙️ Opciones
+
+Tipo de llamadas:
+
+entrantes / salientes / ambas
+
+default: ambas
+
+Modo de grabación:
+
+automática / manual
+
+default: manual
+
+Directorio de grabación:
+
+configurable
+
+default sugerido:
+
+📁 /Android/data/<package>/files/SavedCalls/
+(razones abajo)
+
+4️⃣ Grabación (comportamiento real)
+Manual
+
+Botón visible en UI de llamada (overlay o integración posible)
+
+Estados claros:
+
+grabando / no grabando
+
+Posibilidad de parar en cualquier momento
+
+Automática (preparado, no MVP)
+
+Configuración existe
+
+No activa en v0.1.0
+
+👉 Esto es perfectamente consistente con tu planteamiento.
+
+5️⃣ Gestión de grabaciones (MVP)
+
+Listado interno en la app
+
+Reproducción:
+
+vía intent al reproductor del sistema
+
+❌ No borrar
+
+❌ No compartir
+
+❌ No exportar
+
+Metadatos:
+
+fecha/hora
+
+duración
+
+tipo (E/S)
+
+número (si disponible)
+
+6️⃣ Decisiones técnicas validadas
+📱 Android
+
+Versión mínima: Android 10 (API 29) ✔
+Buen equilibrio compatibilidad / APIs modernas.
+
+🧠 Robustez > features
+
+Nada de betas inestables
+
+Menos cosas, pero sólidas
+
+📦 Almacenamiento
+
+Por qué esa ruta sugerida:
+
+No necesitas permisos raros
+
+Android gestiona sandbox
+
+Fácil de limpiar
+
+No visible para otras apps
+
+Más adelante se puede:
+
+mover a SAF
+
+permitir exportación explícita
+
+7️⃣ Capacitor plugin (muy buen criterio)
+
+Totalmente de acuerdo contigo:
+
+❌ NO un plugin monolítico CallRecorder
+
+✔ Separación de responsabilidades:
+
+CallStatePlugin
+
+AudioRecorderPlugin
+
+StoragePlugin
+
+LoggerPlugin (solo debug)
+
+Eso es arquitectura limpia, no postureo.
+
+8️⃣ Logging (mínimo y correcto)
+
+Solo en modo debug
+
+Niveles:
+
+INFO
+
+WARN
+
+ERROR
+
+Local
+
+Sin datos sensibles
+
+9️⃣ Conclusión (como PM)
+
+🔹 Ahora sí está todo coherente
+🔹 El modelo es defendible técnica y conceptualmente
+🔹 La v0.1.0 está bien acotada
+🔹 No hay contradicciones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
