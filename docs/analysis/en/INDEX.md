@@ -1,3 +1,17 @@
+<p align="right">Español | <a href="README.en.md">English</a></p>
+
+<p align="center"><img src="docs/logo.png" alt="Claimailer Logo" width="600"/></p>
+<h1 align="center">Claimailer</h1>
+<p align="center"><strong>Un framework de correo para PHP moderno, ligero y extensible.</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-%3E%3D8.2-8892BF?style=for-the-badge&logo=php" alt="PHP Version">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Version-2.1.0-blue?style=for-the-badge" alt="Version">
+</p>
+
+
+
 # Índice de documentación
 
 
