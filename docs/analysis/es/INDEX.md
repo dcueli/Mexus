@@ -4,7 +4,6 @@
 <h1 align="center">Mexus</h1>
 <p align="center"><strong>Para tu seguridad, tu registro de llamadas</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-%3E%3D8.2-8892BF?style=for-the-badge&logo=php" alt="PHP Version">
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/Version-2.1.0-blue?style=for-the-badge" alt="Version">
 </p>
@@ -16,13 +15,15 @@
 
 &nbsp; 1.1 Visión y Alcance **\[1]**
 
-&nbsp; 1.2 Acta de Constitución + Caso de Negocio (Project charter \& Business case) **\[2]**
+&nbsp; 1.2 Caso de Negocio (Business case) **\[2]**
 
-&nbsp; 1.3 Stakeholder \& Roles (simplificado)
+&nbsp; 1.3 Acta de Constitución (Project charter) **\[3]**
+
+&nbsp; 1.4 Stakeholder \& Roles (simplificado)
 
 2\. Requisitos y producto
 
-&nbsp; 2.1 SRS / Especificación de Requisitos de Software **\[3]**
+&nbsp; 2.1 SRS / Especificación de Requisitos de Software **\[4]**
 
 &nbsp; 2.2 Product Vision \& Roadmap (PO)
 
@@ -30,19 +31,19 @@
 
 3\. Diseño y arquitectura
 
-&nbsp; 3.1 Documento de Arquitectura de Software (Software Architecture Document) **\[4]**
+&nbsp; 3.1 Documento de Arquitectura de Software (Software Architecture Document) **\[5]**
 
 &nbsp; 3.2 Diagramas (UML / flujos)
 
 4\. Planificación, ejecución y calidad
 
-&nbsp; 4.1 Plan de Proyecto / Plan de Fases **\[5]**
+&nbsp; 4.1 Plan de Proyecto / Plan de Fases **\[6]**
 
-&nbsp; 4.2 Plan de Gestión Ágil (Agile Management Guide with Scrum/Kanban) **\[6]**
+&nbsp; 4.2 Plan de Gestión Ágil (Agile Management Guide with Scrum/Kanban) **\[7]**
 
-&nbsp; 4.3 Plan de Pruebas / Estrategia de Testing (Testt plan) **\[7]**
+&nbsp; 4.3 Plan de Pruebas / Estrategia de Testing (Testt plan) **\[8]**
 
-&nbsp; 4.4 Registro de Riesgos (Risk Register) **\[8]**
+&nbsp; 4.4 Registro de Riesgos (Risk Register) **\[9]**
 
 &nbsp; 4.5 SLA / SLO (Service Level Agreement, adaptado)
 
