@@ -46,7 +46,7 @@
 4. Especificación de Requisitos del Software (qué debe hacer, Software Requirement Specification SRS).
 5. Documento de Arquitectura de Software (cómo está diseñado, Software Architecture Document SAD).
 6. Plan de Pruebas (cómo se valida, Testing Plan).
-7. Matriz de trazabilidad (cómo se conecta todo, Traceability Matrix).
+7. Matriz de trazabilidad (SRS ↔ SAD ↔ Plan de Pruebas, cómo se conecta todo, Traceability Matrix).
 8. Plan de Proyecto (cómo se ejecuta, Project Plan):
 - Gantt,
 - esfuerzo por fases,
